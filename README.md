@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekizashvilit&label=Profile%20views&color=0e75b6&style=flat" alt="ekizashvilit" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ekizashvilit/personal-portfolio](https://github.com/ekizashvilit/personal-portfolio)
+- 👨‍💻 All of my projects are available on my [GitHub profile](https://github.com/ekizashvilit?tab=repositories)
 
 - 📫 How to reach me **tekizashvili@gmail.com**
 
