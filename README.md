@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available on my [GitHub profile](https://github.com/ekizashvilit?tab=repositories)
 
-- 📫 How to reach me **tekizashvili@gmail.com**
+- 📫 You can contact me by email **tekizashvili@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
