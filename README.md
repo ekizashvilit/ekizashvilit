@@ -1,6 +1,6 @@
 [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)]()
 <h1 align="center">Hello! I'm Teona Ekizashvili</h1>
-<h3 align="center">Front-End/React Developer from Georgia</h3>
+<h3 align="center">Front-End/React Developer</h3>
 <!-- <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekizashvilit&label=Profile%20views&color=0e75b6&style=flat" alt="ekizashvilit" /> </p>
