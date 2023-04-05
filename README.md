@@ -1,5 +1,3 @@
-<body style="background-color: #1a1a1a;">
-
 # 💫 About Me:
 Creative and passionate front-end developer with expertise in React. I am driven to build intuitive and visually appealing web<br>applications that deliver exceptional user experiences.
 
@@ -24,5 +22,3 @@ Creative and passionate front-end developer with expertise in React. I am driven
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ekizashvilit&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-  
-</body>
