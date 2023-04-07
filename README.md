@@ -1,5 +1,4 @@
-# 💫 About Me:
-Creative and passionate front-end developer with expertise in React. I am driven to build intuitive and visually appealing web<br>applications that deliver exceptional user experiences.
+# Front-End/React Developer
 
 
 ## 🌐 Socials:
