@@ -1,4 +1,4 @@
-# - - - Front-End/React Developer - - - 
+# - - - Front-End Developer - - - 
 
 
 ## 🌐 Socials:
