@@ -1,4 +1,4 @@
-# - - - Full Stack Developer | MERN - - - 
+# - - - Front-End Developer | React - - - 
 
 
 ## 🌐 Socials:
