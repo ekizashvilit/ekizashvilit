@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Teona and I'm a React Developer.</h2>
+
 
 ###
 
